@@ -1,6 +1,8 @@
 ## Jonathan Dickinson
 
-I am a frontend-heavy software engineer with full-stack capability. I have 11+ years of experience designing and developing web applications in consultancy and product environments. 
+Frontend-heavy software engineer with full-stack capability.
+
+11+ years of experience designing and developing web applications in consultancy and product environments. 
 
 <p align="center">
   <img src="./portfolio.png" alt="Portfolio" width="100%">
