@@ -10,8 +10,9 @@ Frontend-heavy web developer with full-stack capability.
 
 ### Full-Stack Web Developer
 
-I specialize in React, TypeScript, and Next.js, with a strong focus on building complex, scalable UI systems including form-heavy workflows, data dashboards and role-based interfaces. Working within Agile teams, I
-contribute in daily stand-ups and deliver code iteratively through sprint cycles, moving features from development to QA and then into production. I promote the use of reusable component libraries to enforce consistency, and take ownership of design decisions to ensure end-to-end product quality. I prioritize reusability to help teams deliver efficiently. I also value knowledge-sharing and continuous
+I specialize in (React + TypeScript) with a strong focus on building complex scalable UI.
+
+Working within Agile teams, I contribute in daily stand-ups and deliver code iteratively through sprint cycles, moving features from development to QA and then into production. I promote the use of reusable component libraries to enforce consistency, and take ownership of design decisions to ensure end-to-end product quality. I prioritize reusability to help teams deliver efficiently. I also value knowledge-sharing and continuous
 learning within collaborative environments.
 
 [View Project List](https://drive.google.com/file/d/1tFecZCcciKZHpH51eAaWSXQp9S5NYZZK/view?usp=sharing)
