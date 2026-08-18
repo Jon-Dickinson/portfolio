@@ -46,6 +46,8 @@ I specialize in (React + TypeScript) with a strong focus on building complex sca
 ![W3C](https://img.shields.io/badge/W3C-005A9C?style=for-the-badge&logo=w3c&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-009FDA?style=for-the-badge&logo=agile&logoColor=white)
 
 <br>
 <p align="center">
