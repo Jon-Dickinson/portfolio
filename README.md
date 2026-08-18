@@ -1,10 +1,17 @@
-**Jonathan Dickinson** 
-
 ### Full-Stack Web Developer
 
-I specialize in (React + TypeScript) with a strong focus on building complex scalable UI. Working within Agile teams, I contribute in daily stand-ups and deliver code iteratively through sprint cycles, moving features from development to QA and then into production. I promote the use of reusable component libraries to enforce consistency, and take ownership of design decisions to ensure end-to-end product quality. I prioritize reusability to help teams deliver efficiently. I also value knowledge-sharing and continuous learning within collaborative environments. 11+ years of experience designing and developing web applications in consultancy and product environments.
+I specialize in (React + TypeScript) with a strong focus on building complex scalable UI. Working within Agile teams, I contribute in daily stand-ups and deliver code iteratively through sprint cycles, moving features from development to QA and then into production. I promote the use of reusable component libraries to enforce consistency, and take ownership of design decisions to ensure end-to-end product quality. I prioritize reusability to help teams deliver efficiently. I also value knowledge-sharing and continuous learning within collaborative environments. <br>
+12+ years of experience designing and developing web applications in consultancy and product environments.
 
-Google Drive: [CV](https://drive.google.com/file/d/1wKGhAy5j_27w0tu0dvkXy1WWr_zYoAos/view?usp=sharing) or [View Project Folder](https://drive.google.com/drive/folders/1pPiV9cJPjNpIAjGRWxcQFOxbiGBGw6oE?usp=sharing)
+<br>
+
+[![Google Drive - CV](https://img.shields.io/badge/Google%20Drive-CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1wKGhAy5j_27w0tu0dvkXy1WWr_zYoAos/view?usp=sharing)
+
+[![Google Drive - Project Folder](https://img.shields.io/badge/Google%20Drive-Project%20Folder-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1pPiV9cJPjNpIAjGRWxcQFOxbiGBGw6oE?usp=sharing)
+
+
+
+
 
 <br>
 
@@ -32,7 +39,6 @@ Google Drive: [CV](https://drive.google.com/file/d/1wKGhAy5j_27w0tu0dvkXy1WWr_zY
 ![Swagger UI](https://img.shields.io/badge/Swagger_UI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) 
 
 <br>
-
 <p align="center">
   <img src="./portfolio.png" alt="Portfolio" width="100%">
 </p>
