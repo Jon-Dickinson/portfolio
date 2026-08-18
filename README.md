@@ -64,6 +64,15 @@ I specialize in (React + TypeScript) with a strong focus on building complex sca
   <img src="./portfolio.png" alt="Portfolio" width="100%">
 </p>
 
+<br>
 
+### Ethos
+
+I try to remain open to the possibility that I don't know everything about a particular framework, language or technology. 
+
+
+<p align="center">
+  <img src="./A_vs_B.png" alt="Portfolio" width="100%">
+</p>
 
 
