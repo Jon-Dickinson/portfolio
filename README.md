@@ -1,5 +1,11 @@
 ## Jonathan Dickinson
 
+<p align="center">
+  <img src="./portfolio.png" alt="Portfolio" width="100%">
+</p>
+
+...
+
 ### Full-Stack Web Developer
 
 I am a frontend-heavy software engineer with full-stack capability. I have 11+ years of experience designing and developing web applications in consultancy and product environments. I specialize in React, TypeScript, and Next.js, with a strong focus on building complex, scalable UI systems including form-heavy workflows, data dashboards and role-based interfaces. Working within Agile teams, I
