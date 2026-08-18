@@ -4,7 +4,7 @@
 
 I specialize in (React + TypeScript) with a strong focus on building complex scalable UI. Working within Agile teams, I contribute in daily stand-ups and deliver code iteratively through sprint cycles, moving features from development to QA and then into production. I promote the use of reusable component libraries to enforce consistency, and take ownership of design decisions to ensure end-to-end product quality. I prioritize reusability to help teams deliver efficiently. I also value knowledge-sharing and continuous learning within collaborative environments. 11+ years of experience designing and developing web applications in consultancy and product environments.
 
-Google Drive: [CV](https://drive.google.com/file/d/1tFecZCcciKZHpH51eAaWSXQp9S5NYZZK/view?usp=sharing) or [View Project Folder](https://drive.google.com/drive/folders/1pPiV9cJPjNpIAjGRWxcQFOxbiGBGw6oE?usp=sharing)
+Google Drive: [CV](https://drive.google.com/file/d/1wKGhAy5j_27w0tu0dvkXy1WWr_zYoAos/view?usp=sharing) or [View Project Folder](https://drive.google.com/drive/folders/1pPiV9cJPjNpIAjGRWxcQFOxbiGBGw6oE?usp=sharing)
 
 <br>
 
