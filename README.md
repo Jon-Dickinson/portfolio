@@ -8,6 +8,10 @@ I specialize in (React + TypeScript) with a strong focus on building complex sca
 
 [![Google Drive - Project Folder](https://img.shields.io/badge/Google%20Drive-Project%20Folder-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1pPiV9cJPjNpIAjGRWxcQFOxbiGBGw6oE?usp=sharing)
 
+### Ethos
+
+In my experience, the most important part of web development is being able to implement a solution. <br> It’s about taking an idea and turning it into action.
+
 <br>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -63,16 +67,4 @@ I specialize in (React + TypeScript) with a strong focus on building complex sca
 <p align="center">
   <img src="./portfolio.png" alt="Portfolio" width="100%">
 </p>
-
-<br>
-
-### Ethos
-
-I try to remain open to the possibility that I don't know everything about a particular framework, language or technology. 
-
-
-<p align="center">
-  <img src="./A_vs_B.png" alt="Portfolio" width="100%">
-</p>
-
 
